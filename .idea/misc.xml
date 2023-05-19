@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_Spring_task13/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task14/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task15/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task16/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task17/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task18/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task19/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task20/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task21/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task22/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task23/pom.xml" />
+        <option value="$PROJECT_DIR$/secondpart(13_24)/Java_spring_task24/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

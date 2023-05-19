@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Java_spring_task17" />
+        <module name="Java_spring_task18" />
+        <module name="Java_spring_task18 (2)" />
+        <module name="Java_Spring_task13" />
+        <module name="Java_spring_task18 (1)" />
+        <module name="Java_spring_task18 (4)" />
+        <module name="Java_spring_task14" />
+        <module name="Java_spring_task18 (3)" />
+        <module name="Java_spring_task15" />
+        <module name="Java_spring_task18 (6)" />
+        <module name="Java_spring_task16" />
+        <module name="Java_spring_task18 (5)" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="com.example.demo.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Java_Spring_task13" options="-parameters" />
+      <module name="Java_spring_task14" options="-parameters" />
+      <module name="Java_spring_task15" options="-parameters" />
+      <module name="Java_spring_task16" options="-parameters" />
+      <module name="Java_spring_task17" options="-parameters" />
+      <module name="Java_spring_task18" options="-parameters" />
+      <module name="Java_spring_task18 (1)" options="-parameters" />
+      <module name="Java_spring_task18 (2)" options="-parameters" />
+      <module name="Java_spring_task18 (3)" options="-parameters" />
+      <module name="Java_spring_task18 (4)" options="-parameters" />
+      <module name="Java_spring_task18 (5)" options="-parameters" />
+      <module name="Java_spring_task18 (6)" options="-parameters" />
+    </option>
+  </component>
+</project>

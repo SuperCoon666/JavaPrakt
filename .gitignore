@@ -1,0 +1,4 @@
+# Project exclude paths
+/PraktsFirst/task9/.gradle/
+/PraktsFirst/task9/build/
+/PraktsFirst/task9/build/classes/java/main/

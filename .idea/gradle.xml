@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/PraktsFirst/JavaPrakts10_" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/PraktsFirst/JavaPrakts10_" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/PraktsFirst/JavaPraktsTask11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/PraktsFirst/JavaPraktsTask11" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/PraktsFirst/JavaPraktsTask12" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/PraktsFirst/JavaPraktsTask12" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/PraktsFirst/task9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/PraktsFirst/task9" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
